@@ -7,7 +7,7 @@
 -->
 
 - Developer at [Headway](https://headway.io)
-- Worship leader at [Emmaus](https://emmauswbl.org)
+- Worship leader at [Emmaus](https://emmauswbl.com)
 
 <!--
 **noahsettersten/noahsettersten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
