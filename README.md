@@ -9,6 +9,8 @@
 - Developer at [Headway](https://headway.io)
 - Worship leader at [Emmaus](https://emmauswbl.com)
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahsettersten&hide=html) -->
+
 <!--
 **noahsettersten/noahsettersten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,8 +28,6 @@ Find me around the web 🌎:
     Tinkering with interactions on Codepen 🏓
     Sharing updates on LinkedIn 💼
 -->
-
-
 
 
 <!-- Show latest releases, blogs, TILs: https://github.com/simonw -->
