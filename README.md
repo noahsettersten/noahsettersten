@@ -7,7 +7,7 @@
 -->
 
 - Developer at [Headway](https://headway.io)
-- Worship leader at [Emmaus](https://emmauswbl.com)
+- Former worship leader at [Emmaus](https://emmauswbl.com)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahsettersten&hide=html) -->
 
